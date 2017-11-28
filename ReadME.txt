@@ -1,1 +1,1 @@
-﻿ReadME解决中文乱码
+ReadME解决中文乱码 UTF-8
